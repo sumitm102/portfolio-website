@@ -33,7 +33,7 @@ Architecting the brain of next-gen hardware with relevant tools.
 
 **Frontend & Web:** HTML/CSS, JavaScript, TypeScript, React, Tailwind CSS, Next.js, React Native 
 
-**Backend & Databases:** Python, Flask, Supabase, SQL, SQLite  
+**Backend & Database:** Python, Flask, Supabase, SQL, SQLite  
 
 **Game Development:** Unity, C#, Ren'Py  
 
