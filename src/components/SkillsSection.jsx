@@ -23,11 +23,11 @@ const skills = [
 
   // Game Development
   { name: "Unity", level: 95, category: "game development" },
-  { name: "C#", level: 85, category: "game development" },
-  { name: "Ren'Py", level: 85, category: "game development" },
+  { name: "C#", level: 90, category: "game development" },
+  { name: "Ren'Py", level: 80, category: "game development" },
 
   // Embedded Software
-  { name: "C++", level: 80, category: "embedded software" },
+  { name: "C++", level: 75, category: "embedded software" },
   { name: "ESP32", level: 75, category: "embedded software" },
   { name: "Arduino", level: 70, category: "embedded software" },
 

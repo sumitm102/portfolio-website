@@ -11,7 +11,7 @@ const projects = [
     title: "Cardless & PIN-Free Payment Service",
     description:
       "A responsive Next.js frontend for a facial recognition payment platform.",
-    image: "/projects/CardlessPayment.png",
+    image: "./projects/CardlessPayment.png",
     tags: ["Next.js", "TailWindCSS", "Flask"],
     demoUrl: "https://devpost.com/software/invis-io",
     githubUrl: "https://github.com/sumitm102/Hack-Knight-Spring-2025",
@@ -21,7 +21,7 @@ const projects = [
     title: "Action RPG",
     description:
       "A dynamic 2D action RPG with elemental combat and flexible stat systems for engaging gameplay.",
-    image: "/projects/2D_RPG.png",
+    image: "./projects/2D_RPG.png",
     tags: ["Unity", "C#", "ScriptableObject"],
     demoUrl: "#",
     githubUrl: "https://github.com/sumitm102/First_RPG",
@@ -31,7 +31,7 @@ const projects = [
     title: "Garbage Detection and Reporting App",
     description:
       "Full-featured mobile app for urban cleanliness and community waste reporting.",
-    image: "/projects/Ecofriendly.png",
+    image: "./projects/Ecofriendly.png",
     tags: ["React Native", "Nativewind", "Gemini"],
     demoUrl: "https://devpost.com/software/ecofriend-ly",
     githubUrl: "https://github.com/sumitm102/Hack-Knight-2024-Hackathon",
