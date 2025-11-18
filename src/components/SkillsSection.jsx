@@ -12,14 +12,14 @@ const skills = [
   { name: "React Native", level: 75, category: "frontend" },
 
   // Backend
-  { name: "Python", level: 90, category: "backend" },
+  { name: "Python", level: 90, category: "backend & database" },
   // { name: "FastAPI", level: 80, category: "backend" },
-  { name: "Flask", level: 75, category: "backend" },
+  { name: "Flask", level: 75, category: "backend  & database" },
   // { name: "Java", level: 75, category: "backend" },
   // { name: "Spring Boot", level: 65, category: "backend" },
-  { name: "Supabase", level: 75, category: "backend" },
-  { name: "SQL", level: 70, category: "backend" },
-  { name: "SQLite", level: 65, category: "backend" },
+  { name: "Supabase", level: 75, category: "backend & database" },
+  { name: "SQL", level: 70, category: "backend & database" },
+  { name: "SQLite", level: 65, category: "backend & database" },
 
   // Game Development
   { name: "Unity", level: 95, category: "game development" },
@@ -45,7 +45,7 @@ const skills = [
 const categories = [
   "all",
   "frontend",
-  "backend",
+  "backend & database",
   "game development",
   "embedded software",
   "tools",
