@@ -65,10 +65,10 @@ Full-featured mobile app for urban cleanliness and community waste reporting.
 ## Contact
 
 Feel free to reach out for collaboration or inquiries!  
-[Email Me](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[Email Me](mailto:sumit.mandal.cs@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/sumit-mandal-cs-qc/]) | [GitHub](https://github.com/sumitm102)
 
 ---
 
 ## Resume
 
-[View My Resume](https://docs.google.com/document/d/1DZufXLhJnt8-S_V6MLwqU-GZ_aXzJUUJSbbLLz1fmss/edit?usp=drive_link)
+[View My Resume](https://docs.google.com/document/d/1iqVLHN6zn0PRJSKE2f7WcqzLN96KzQoVyJjLrDPrgxM/edit?tab=t.0)
