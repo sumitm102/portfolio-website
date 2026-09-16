@@ -13,12 +13,13 @@ const skills = [
 
   // Backend
   { name: "Python", level: 90, category: "backend & database" },
-  // { name: "FastAPI", level: 80, category: "backend" },
+  { name: "FastAPI", level: 80, category: "backend & database" },
   { name: "Flask", level: 75, category: "backend  & database" },
-  // { name: "Java", level: 75, category: "backend" },
-  // { name: "Spring Boot", level: 65, category: "backend" },
+  { name: "Java", level: 75, category: "backend & database" },
+  { name: "Spring Boot", level: 65, category: "backend & database" },
   { name: "Supabase", level: 75, category: "backend & database" },
   { name: "SQL", level: 70, category: "backend & database" },
+  { name: "PostgreSQL", level: 75, category: "backend & database" },
   { name: "SQLite", level: 65, category: "backend & database" },
 
   // Game Development
@@ -29,10 +30,12 @@ const skills = [
   // Embedded Software
   { name: "C++", level: 75, category: "embedded software" },
   { name: "ESP32", level: 75, category: "embedded software" },
+  { name: "LVGL", level: 75, category: "embedded software" },
   { name: "Arduino", level: 70, category: "embedded software" },
 
   // Tools
   { name: "Git/GitHub", level: 90, category: "tools" },
+  { name: "Docker", level: 75, category: "tools" },
   { name: "VS Code", level: 95, category: "tools" },
   { name: "Visual Studio", level: 95, category: "tools" },
   { name: "PyCharm", level: 85, category: "tools" },

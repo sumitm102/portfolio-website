@@ -8,13 +8,14 @@ import {
 const projects = [
   {
     id: 1,
-    title: "Cardless & PIN-Free Payment Service",
+    title: "Facial Recognition Payment Platform",
     description:
       "A responsive Next.js frontend for a facial recognition payment platform.",
     image: "./projects/CardlessPayment.png",
     tags: ["Next.js", "TailWindCSS", "Flask"],
     demoUrl: "https://devpost.com/software/invis-io",
-    githubUrl: "https://github.com/sumitm102/Hack-Knight-Spring-2025",
+    githubUrl:
+      "https://github.com/sumitm102/Facial-Recognition-Payment-Platform",
   },
   {
     id: 2,
@@ -34,7 +35,8 @@ const projects = [
     image: "./projects/Ecofriendly.png",
     tags: ["React Native", "Nativewind", "Gemini"],
     demoUrl: "https://devpost.com/software/ecofriend-ly",
-    githubUrl: "https://github.com/sumitm102/Hack-Knight-2024-Hackathon",
+    githubUrl:
+      "https://github.com/sumitm102/Garbage-Detection-and-Reporting-App",
   },
 ];
 

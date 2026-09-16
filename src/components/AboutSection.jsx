@@ -28,7 +28,7 @@ export const AboutSection = () => {
                 Get in touch
               </a>
               <a
-                href="https://docs.google.com/document/d/1DZufXLhJnt8-S_V6MLwqU-GZ_aXzJUUJSbbLLz1fmss/edit?usp=drive_link"
+                href="https://docs.google.com/document/d/1iqVLHN6zn0PRJSKE2f7WcqzLN96KzQoVyJjLrDPrgxM/edit?usp=sharing"
                 target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >

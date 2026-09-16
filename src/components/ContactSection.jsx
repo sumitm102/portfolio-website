@@ -58,7 +58,7 @@ export const ContactSection = () => {
                       href="mailto:hello@gmail.com"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      sumitmandal0102@gmail.com
+                      sumit.mandal.cs@gmail.com
                     </a>
                   </div>
                 </div>
@@ -87,7 +87,7 @@ export const ContactSection = () => {
                   <div>
                     <h4 className="font-medium">Location</h4>
                     <a className="text-muted-foreground hover:text-primary transition-colors">
-                      Elmhurst, NY, USA
+                      New York, NY, USA
                     </a>
                   </div>
                 </div>
@@ -157,7 +157,7 @@ export const ContactSection = () => {
                 disabled={isSubmitting}
                 className={cn(
                   "cosmic-button w-full flex items-center justify-center gap-2",
-                  ""
+                  "",
                 )}
               >
                 {isSubmitting ? "Sending..." : "Send message"}
